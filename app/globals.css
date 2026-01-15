@@ -24,3 +24,13 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+/* Force all typing to be black and readable */
+input, textarea, select {
+  color: #000000 !important; /* Pure Black */
+  font-weight: 600;
+}
+
+input::placeholder, textarea::placeholder {
+  color: #6b7280; /* Grey for the placeholder text only */
+}
+
