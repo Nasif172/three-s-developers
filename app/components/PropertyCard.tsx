@@ -12,10 +12,10 @@ interface ProjectProps {
 
 export default function PropertyCard({ project }: { project: ProjectProps }) {
   
-  // 👇 CHANGE THIS TO YOUR NEW NUMBER (Start with 880...)
+  // 👇👇 TYPE YOUR REAL PHONE NUMBER HERE (Keep the quotes "") 👇👇
   const phoneNumber = "8801835105772"; 
   
-  // This creates the WhatsApp link automatically
+  // This creates the magic link to WhatsApp
   const whatsappLink = `https://wa.me/${phoneNumber}?text=Hello, I am interested in booking a site visit for: ${project.title}`;
 
   return (
@@ -45,7 +45,7 @@ export default function PropertyCard({ project }: { project: ProjectProps }) {
           {project.description}
         </p>
 
-        {/* This button now opens WhatsApp! */}
+        {/* This button opens WhatsApp */}
         <a 
           href={whatsappLink}
           target="_blank"
