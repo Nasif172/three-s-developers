@@ -16,7 +16,7 @@ export default function ProjectsPage() {
   ];
 
   // 2. YOUR PHONE NUMBER (Change this if needed)
-  const phoneNumber = "8801700000000";
+  const phoneNumber = "8801835105772";
 
   return (
     <main className="min-h-screen bg-gray-50 py-20 px-4">
