@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Three S Model Town",
+    "location": "Near Purbachal",
+    "status": "Ready",
+    "category": "Residential",
+    "price": "35 Lac/Katha",
+    "plotSize": "5 Katha",
+    "roadWidth": "40 Feet"
+  },
+  {
+    "id": 2,
+    "title": "Riverside City",
+    "location": "Keraniganj",
+    "status": "Booking",
+    "category": "Commercial",
+    "price": "22 Lac/Katha",
+    "plotSize": "10 Katha",
+    "roadWidth": "60 Feet"
+  }
+]
