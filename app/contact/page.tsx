@@ -50,7 +50,7 @@ export default function ContactPage() {
 
           {/* Map Placeholder */}
           <div className="h-64 bg-slate-200 rounded-xl flex items-center justify-center text-gray-400 border-2 border-dashed border-gray-300">
-            <span>🗺️ Google Map will go here</span>
+            <span>🗺️ </span>
           </div>
 
         </div>
