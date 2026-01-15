@@ -2,22 +2,22 @@
   {
     "id": 1,
     "title": "Abakash Lake View Society",
-    "location": "Near Purbachal",
-    "status": "Ready",
-    "category": "Residential",
-    "price": "35 Lac/Katha",
-    "plotSize": "5 Katha",
-    "roadWidth": "40 Feet",
-    "description": "Experience serene living at Abakash Lake View Society. Located in Kashimalata, near Ati Bazar, this massive 20-katha plot offers a perfect blend of natural lakeside beauty and modern convenience. A prime choice for developers or luxury residential construction just outside Dhaka."
-  },
+    "location": "Kashimalata, Ati Bazar, Keraniganj",
+    "size": "20 Katha",
+    "price": "Call for Price",
+    "status": "Available",
+
+[
   {
-    "id": 2,
-    "title": "Riverside City",
-    "location": "Keraniganj",
-    "status": "Booking",
-    "category": "Commercial",
-    "price": "22 Lac/Katha",
-    "plotSize": "10 Katha",
-    "roadWidth": "60 Feet"
+    "id": 1,
+    "title": "Abakash Lake View Society",
+    "location": "Kashimalata, Ati Bazar, Keraniganj",
+    "size": "20 Katha",
+    "price": "Call for Price",
+    "status": "Available",
+    "description": "Experience serene living at Abakash Lake View Society. Located in Kashimalata, near Ati Bazar, this massive 20-katha plot offers a perfect blend of natural lakeside beauty and modern convenience."
+  }
+]
+
   }
 ]
