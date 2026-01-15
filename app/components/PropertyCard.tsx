@@ -1,2 +1,3 @@
-export default function
-  PropertyCard() { return <div></div>;}
+export default function PropertyCard() {
+  return <div className="hidden"></div>;
+}
