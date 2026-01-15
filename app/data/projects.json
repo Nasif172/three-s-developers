@@ -1,13 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Three S Model Town",
+    "title": "Abakash Lake View Society",
     "location": "Near Purbachal",
     "status": "Ready",
     "category": "Residential",
     "price": "35 Lac/Katha",
     "plotSize": "5 Katha",
-    "roadWidth": "40 Feet"
+    "roadWidth": "40 Feet",
+    "description": "Experience serene living at Abakash Lake View Society. Located in Kashimalata, near Ati Bazar, this massive 20-katha plot offers a perfect blend of natural lakeside beauty and modern convenience. A prime choice for developers or luxury residential construction just outside Dhaka."
   },
   {
     "id": 2,
